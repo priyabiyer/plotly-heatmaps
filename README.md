@@ -6,3 +6,5 @@ The dataset I worked with is not included because it is proprietary to the compa
 
 However, you can customize and run cleaning.py to clean your dataset. You can customize and run customize_graphs.py to customize the color, layout, type of interactive visualization, etc. This code will output two interactive heatmaps that you can view in a web application.
 
+![alt text](https://github.com/priyabiyer/plotly-heatmaps/blob/master/GNE_heatmaps.png)
+
